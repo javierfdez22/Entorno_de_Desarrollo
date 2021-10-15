@@ -7,7 +7,7 @@ desde su análisis para poder empezar a desarrollarlo hasta su mantenimiento una
 
 2. Nombra las fases principales del desarrollo de software y explica brevemente que se hace en cada una de ellas.
 - Análisis: Se definen las necesidades del cliente, las cuales el software debe cumplir. 
-- Diseño: Se descompone y organiza el sistema en elementos componentes qeu pueden ser desarrollados por separado.
+- Diseño: Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
 - Codificación: Se escribe el código fuente de cada componente.
 - Pruebas: Se somete el programa al mayor número de situaciones diferentes para encontrar fallos.
 - Mantenimiento: Consiste en realizar cambios ocasionales una vez tenemos creado el software, para corregir errores, mejorar una funcionalidad...
@@ -23,7 +23,7 @@ Ventajas:
 - Se puede representar cronológicamente de forma sencilla.
 
 Inconvenientes:
-- Modelo antiguo.
+- El cliente no ve el producto hasta su finalización.
 - Se adapta mal al cambio continuo de especificaciones.
 - Hay diferentes variantes con un mayor o menor número de actividades.
 
